@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Software, Guatemala y el mundo
 layout: post
 ---
